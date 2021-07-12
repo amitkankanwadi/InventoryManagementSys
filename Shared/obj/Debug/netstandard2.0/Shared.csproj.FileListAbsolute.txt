@@ -1,0 +1,9 @@
+C:\Training\Shared\bin\Debug\netstandard2.0\Shared.deps.json
+C:\Training\Shared\bin\Debug\netstandard2.0\Shared.dll
+C:\Training\Shared\bin\Debug\netstandard2.0\Shared.pdb
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.csprojAssemblyReference.cache
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.csproj.CoreCompileInputs.cache
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoInputs.cache
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.dll
+C:\Training\Shared\obj\Debug\netstandard2.0\Shared.pdb

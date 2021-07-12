@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj"/>
+    <ProjectReference Include="..\Core\Core.csproj"/>
+    <ProjectReference Include="..\Shared\Shared.csproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1"/>
+  </ItemGroup>
+</Project>

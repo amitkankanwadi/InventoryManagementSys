@@ -1,0 +1,16 @@
+<div>
+  <h2>Product List</h2>
+  <a [routerLink]='["/stocks"]' style="text-align: left; padding-bottom: 1em; margin-left: 55em;">Check stock</a>
+</div>
+
+<form [formGroup]="productForm" style="text-align: left; padding-bottom: 1em;">
+  <div>
+    <input type="text" formControlName="productName" placeholder="Product Name" style="margin-right: 20px;">
+    <input type="text" formControlName="description" placeholder="Description" style="margin-right: 20px;">
+    <input type="number" formControlName="rate" placeholder="Product Rate" style="margin-right: 20px;">
+    <button type="button" style="margin-right: 20px;" (click)="addProduct()"> Add </button>
+    <button type="button" style="margin-right: 20px;" (click)="updateProduct()"> Update </button>
+    <button type="button" style="margin-right: 20px;" (click)="deleteProduct()"> Delete </button>
+  </div>
+</form>
+<button type="button" style="margin-top: 20px; text-align: center;" (onClick)="newProduct()">Add Product</button>

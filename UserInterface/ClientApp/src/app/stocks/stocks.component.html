@@ -1,0 +1,12 @@
+<h2>Stocks</h2>
+<a [routerLink]='["/report"]' style="text-align: right; margin-left: 55em;"> Get Report </a>
+<form [formGroup]="stockForm" style="text-align: left; padding-bottom: 1em;">
+  <div>
+    <input type="text" formControlName="productName" placeholder="Product Name" style="margin-right: 20px;">
+    <input type="number" formControlName="units" placeholder="Units present" style="margin-right: 20px;">
+    <input type="number" formControlName="unitsSold" placeholder="Units sold" style="margin-right: 20px;">
+    <button type="button" style="margin-right: 20px;" (click)="addStock()"> Add </button>
+    <button type="button" style="margin-right: 20px;" (click)="updateStock()"> Update </button>
+    <button type="button" style="margin-right: 20px;" (click)="deleteStock()"> Delete </button>
+  </div>
+</form>

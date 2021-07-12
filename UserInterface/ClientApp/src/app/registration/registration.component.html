@@ -1,0 +1,22 @@
+<form [formGroup]="regForm" (ngSubmit)="onFormSubmit()" style="text-align: center; padding-bottom: 1em;">
+  <h2 style="text-align: center; padding-bottom: 1em;">Registration</h2>
+
+  <div style="padding-bottom: 1em;">
+    <label for="uname" style="margin-right: 20px;">User name</label> &emsp;
+    <input type="email" id="uname" formControlName="UserName">
+  </div>
+
+  <div style="padding-bottom: 1em;">
+    <label style="margin-right: 20px;">Email-id</label>
+    <input type="text" id="password" formControlName="EmailId">
+  </div>
+
+  <div style="padding-bottom: 1em;">
+    <label style="margin-right: 20px;">Password</label>
+    <input type="text" id="password" formControlName="Password">
+  </div>
+
+  <button id="submit" type="submit" >
+    Register
+  </button>
+</form>
