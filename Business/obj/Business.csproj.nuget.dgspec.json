@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\Business\\Business.csproj": {}
+    "C:\\Test\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Training\\Business\\Business.csproj": {
+    "C:\\Test\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Test\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Training\\Business\\Business.csproj",
+        "projectPath": "C:\\Test\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Business\\obj\\",
+        "outputPath": "C:\\Test\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,14 +28,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Training\\Core\\Core.csproj": {
-                "projectPath": "C:\\Training\\Core\\Core.csproj"
+              "C:\\Test\\Core\\Core.csproj": {
+                "projectPath": "C:\\Test\\Core\\Core.csproj"
               },
-              "C:\\Training\\Data\\Data.csproj": {
-                "projectPath": "C:\\Training\\Data\\Data.csproj"
+              "C:\\Test\\Data\\Data.csproj": {
+                "projectPath": "C:\\Test\\Data\\Data.csproj"
               },
-              "C:\\Training\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Training\\Shared\\Shared.csproj"
+              "C:\\Test\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Test\\Shared\\Shared.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Training\\Core\\Core.csproj": {
+    "C:\\Test\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Test\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Training\\Core\\Core.csproj",
+        "projectPath": "C:\\Test\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Core\\obj\\",
+        "outputPath": "C:\\Test\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Training\\Data\\Data.csproj": {
+    "C:\\Test\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Test\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Training\\Data\\Data.csproj",
+        "projectPath": "C:\\Test\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Data\\obj\\",
+        "outputPath": "C:\\Test\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Training\\Shared\\Shared.csproj": {
+    "C:\\Test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Training\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\Shared\\obj\\",
+        "outputPath": "C:\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -6463,11 +6463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Test\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Training\\Business\\Business.csproj",
+      "projectPath": "C:\\Test\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\Business\\obj\\",
+      "outputPath": "C:\\Test\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6484,14 +6484,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Training\\Core\\Core.csproj": {
-              "projectPath": "C:\\Training\\Core\\Core.csproj"
+            "C:\\Test\\Core\\Core.csproj": {
+              "projectPath": "C:\\Test\\Core\\Core.csproj"
             },
-            "C:\\Training\\Data\\Data.csproj": {
-              "projectPath": "C:\\Training\\Data\\Data.csproj"
+            "C:\\Test\\Data\\Data.csproj": {
+              "projectPath": "C:\\Test\\Data\\Data.csproj"
             },
-            "C:\\Training\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Training\\Shared\\Shared.csproj"
+            "C:\\Test\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Test\\Shared\\Shared.csproj"
             }
           }
         }

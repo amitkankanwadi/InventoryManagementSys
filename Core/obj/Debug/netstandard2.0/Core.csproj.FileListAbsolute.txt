@@ -7,3 +7,12 @@ C:\Training\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
 C:\Training\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
 C:\Training\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Training\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Test\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Test\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Test\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Test\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Test\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Test\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Test\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Test\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Test\Core\obj\Debug\netstandard2.0\Core.pdb

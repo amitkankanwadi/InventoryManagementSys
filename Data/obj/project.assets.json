@@ -6409,11 +6409,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Test\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Training\\Data\\Data.csproj",
+      "projectPath": "C:\\Test\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\Data\\obj\\",
+      "outputPath": "C:\\Test\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
