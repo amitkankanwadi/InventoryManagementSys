@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Test\\Shared\\Shared.csproj": {}
+    "c:\\Test\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Test\\Shared\\Shared.csproj": {
+    "c:\\Test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Shared\\Shared.csproj",
+        "projectUniqueName": "c:\\Test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Test\\Shared\\Shared.csproj",
+        "projectPath": "c:\\Test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Shared\\obj\\",
+        "outputPath": "c:\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

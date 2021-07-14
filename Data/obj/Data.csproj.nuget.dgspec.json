@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Test\\Data\\Data.csproj": {}
+    "c:\\Test\\Data\\Data.csproj": {}
   },
   "projects": {
-    "C:\\Test\\Data\\Data.csproj": {
+    "c:\\Test\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Data\\Data.csproj",
+        "projectUniqueName": "c:\\Test\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Test\\Data\\Data.csproj",
+        "projectPath": "c:\\Test\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Data\\obj\\",
+        "outputPath": "c:\\Test\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

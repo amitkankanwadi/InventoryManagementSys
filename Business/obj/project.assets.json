@@ -6463,11 +6463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Test\\Business\\Business.csproj",
+      "projectUniqueName": "c:\\Test\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Test\\Business\\Business.csproj",
+      "projectPath": "c:\\Test\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Test\\Business\\obj\\",
+      "outputPath": "c:\\Test\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6484,14 +6484,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Test\\Core\\Core.csproj": {
-              "projectPath": "C:\\Test\\Core\\Core.csproj"
+            "c:\\Test\\Core\\Core.csproj": {
+              "projectPath": "c:\\Test\\Core\\Core.csproj"
             },
-            "C:\\Test\\Data\\Data.csproj": {
-              "projectPath": "C:\\Test\\Data\\Data.csproj"
+            "c:\\Test\\Data\\Data.csproj": {
+              "projectPath": "c:\\Test\\Data\\Data.csproj"
             },
-            "C:\\Test\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Test\\Shared\\Shared.csproj"
+            "c:\\Test\\Shared\\Shared.csproj": {
+              "projectPath": "c:\\Test\\Shared\\Shared.csproj"
             }
           }
         }

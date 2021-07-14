@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Test\\Business\\Business.csproj": {}
+    "c:\\Test\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Test\\Business\\Business.csproj": {
+    "c:\\Test\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Business\\Business.csproj",
+        "projectUniqueName": "c:\\Test\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Test\\Business\\Business.csproj",
+        "projectPath": "c:\\Test\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Business\\obj\\",
+        "outputPath": "c:\\Test\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,14 +28,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Test\\Core\\Core.csproj": {
-                "projectPath": "C:\\Test\\Core\\Core.csproj"
+              "c:\\Test\\Core\\Core.csproj": {
+                "projectPath": "c:\\Test\\Core\\Core.csproj"
               },
-              "C:\\Test\\Data\\Data.csproj": {
-                "projectPath": "C:\\Test\\Data\\Data.csproj"
+              "c:\\Test\\Data\\Data.csproj": {
+                "projectPath": "c:\\Test\\Data\\Data.csproj"
               },
-              "C:\\Test\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Test\\Shared\\Shared.csproj"
+              "c:\\Test\\Shared\\Shared.csproj": {
+                "projectPath": "c:\\Test\\Shared\\Shared.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Test\\Core\\Core.csproj": {
+    "c:\\Test\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Test\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Test\\Core\\Core.csproj",
+        "projectPath": "c:\\Test\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Core\\obj\\",
+        "outputPath": "c:\\Test\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Test\\Data\\Data.csproj": {
+    "c:\\Test\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Data\\Data.csproj",
+        "projectUniqueName": "c:\\Test\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Test\\Data\\Data.csproj",
+        "projectPath": "c:\\Test\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Data\\obj\\",
+        "outputPath": "c:\\Test\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -192,14 +192,14 @@
         }
       }
     },
-    "C:\\Test\\Shared\\Shared.csproj": {
+    "c:\\Test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Shared\\Shared.csproj",
+        "projectUniqueName": "c:\\Test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Test\\Shared\\Shared.csproj",
+        "projectPath": "c:\\Test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Shared\\obj\\",
+        "outputPath": "c:\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

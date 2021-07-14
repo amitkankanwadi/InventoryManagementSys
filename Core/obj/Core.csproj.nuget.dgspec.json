@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Test\\Core\\Core.csproj": {}
+    "c:\\Test\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Test\\Core\\Core.csproj": {
+    "c:\\Test\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Test\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Test\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Test\\Core\\Core.csproj",
+        "projectPath": "c:\\Test\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Test\\Core\\obj\\",
+        "outputPath": "c:\\Test\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
